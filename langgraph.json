@@ -1,5 +1,5 @@
 {
-  "dependencies": ["."],
+  "dependencies": ["qss"],
   "graphs": {
     "chat": "./chat/graph.py:graph"
   }
